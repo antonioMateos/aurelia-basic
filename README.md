@@ -1,2 +1,4 @@
 # aurelia-basic
-Basic setup with Aurelia Framework
+- - - -
+Basic setup with [Aurelia][https://github.com/aurelia] Framework
+
