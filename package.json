@@ -1,0 +1,36 @@
+{
+  "name": "aurelia-basic-setup",
+  "version": "1.0.0",
+  "description": "Aurelia Basic Node Setup",
+  "main": "index.js",
+  "scripts": {
+    "start": "gulp default"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/antonioMateos/aurelia-basic.git"
+  },
+  "keywords": [
+    "Aurelia",
+    "ES6",
+    "Javascript"
+  ],
+  "author": "Grahovsky",
+  "license": "MIT",
+  "devDependencies": {
+    "browser-sync": "^2.18.8",
+    "gulp": "^3.9.1",
+    "gulp-autoprefixer": "^3.1.1",
+    "gulp-concat": "^2.6.1",
+    "gulp-sass": "^3.1.0",
+    "gulp-nodemon": "^2.2.1"
+  },
+  "dependencies": {
+    "body-parser": "^1.17.1",
+    "express": "^4.15.2"
+  },
+  "bugs": {
+    "url": "https://github.com/antonioMateos/aurelia-basic/issues"
+  },
+  "homepage": "https://github.com/antonioMateos/aurelia-basic#readme"
+}
