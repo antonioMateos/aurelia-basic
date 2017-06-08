@@ -1,4 +1,4 @@
-![alt text](http://codelikeapoem.com/wp-content/uploads/2016/09/aurelia-845x2811.png "Aurelia Framework")
+<img src="http://codelikeapoem.com/wp-content/uploads/2016/09/aurelia-845x2811.png" width="150" alt="Aurelia Framework" />
 
 ## AURELIA | Basic Node Setup
 
