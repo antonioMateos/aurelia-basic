@@ -1,4 +1,6 @@
-# ![alt text](https://avatars2.githubusercontent.com/u/9808864?v=3&s=200) AURELIA | Basic Node Setup
+![alt text](http://codelikeapoem.com/wp-content/uploads/2016/09/aurelia-845x2811.png "Aurelia Framework")
+
+## AURELIA | Basic Node Setup
 
 Basic setup with [Aurelia](https://github.com/aurelia) Framework
 
