@@ -1,6 +1,6 @@
-## <img src="http://codelikeapoem.com/wp-content/uploads/2016/09/aurelia-845x2811.png" width="150" alt="Aurelia Framework" /> | Basic Node Setup
+<img src="http://codelikeapoem.com/wp-content/uploads/2016/09/aurelia-845x2811.png" width="200" alt="Aurelia Framework" />
 
-Basic setup with [Aurelia](https://github.com/aurelia) Framework
+### Basic setup with Node & [Aurelia](https://github.com/aurelia) Framework
 
 - - - -
 
